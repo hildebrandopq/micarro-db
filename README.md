@@ -86,7 +86,3 @@ PL/SQL
 SQL
 UML
 Astah
-
-
-
-packages.png → imagen 6 o 8
